@@ -4,8 +4,6 @@
 
 ## NinjaDevsᵁᴷ
 
-### What We Offer 💼 
-
 **Web Development** — Stunning, responsive sites
 
 **AI & Automation** — Smart bots + workflows to boost efficiency & cut costs
@@ -27,7 +25,7 @@
 ## 📢 Let's Connect!
 
 ▶ Support: Join our [Discord](https://discord.gg/J9kVfvAYeH)  
-📧 Business Inquiries: [hello@pulselab.co.uk](mailto:hello@pulseitinnovate.uk)  
+📧 Business Inquiries: [info@ninjadevs.co.uk](mailto:info@ninjadevs.co.uk)  
 
 ---
 
