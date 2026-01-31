@@ -2,7 +2,7 @@
 
 ---
 
-## PulseLab UK
+## NinjaDevsᵁᴷ
 
 ### What We Offer 💼 
 
@@ -20,7 +20,7 @@
 
 ## Online Presence
 
-🌐 Website: [Website](https://pulselab.co.uk)  
+🌐 Website: [Website](https://ninjadevs.co.uk)  
 
 ---
 
