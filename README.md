@@ -1,4 +1,4 @@
-# Website + App development
+# Website + App Development
 
 ---
 
