@@ -2,7 +2,7 @@
 
 ---
 
-## NinjaDevsᵁᴷ
+## NinjaDevs
 
 **Web Development** — Stunning, responsive sites
 
