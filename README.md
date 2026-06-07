@@ -2,7 +2,7 @@
 
 ---
 
-## NinjaDevs
+## NovemberDelta
 
 **Web Development** — Stunning, responsive sites
 
@@ -18,14 +18,14 @@
 
 ## Online Presence
 
-🌐 Website: [Website](https://ninjadevs.co.uk)  
+🌐 Website: [Website](https://novemberdelta.co.uk)  
 
 ---
 
 ## 📢 Let's Connect!
 
 ▶ Support: Join our [Discord](https://discord.gg/J9kVfvAYeH)  
-📧 Business Inquiries: [info@ninjadevs.co.uk](mailto:info@ninjadevs.co.uk)  
+📧 Business Inquiries: [info@novemberdelta.co.uk](mailto:info@novemberdelta.co.uk)  
 
 ---
 
