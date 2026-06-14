@@ -2,7 +2,7 @@
 
 ---
 
-## NovemberDelta
+## NorthDelta Studio
 
 **Web Development** — Stunning, responsive sites
 
@@ -18,14 +18,14 @@
 
 ## Online Presence
 
-🌐 Website: [Website](https://novemberdelta.co.uk)  
+🌐 Website: [Website](https://northdeltastudio.co.uk)  
 
 ---
 
 ## 📢 Let's Connect!
 
 ▶ Support: Join our [Discord](https://discord.gg/J9kVfvAYeH)  
-📧 Business Inquiries: [info@novemberdelta.co.uk](mailto:info@novemberdelta.co.uk)  
+📧 Business Inquiries: [info@novemberdelta.co.uk](mailto:info@northdeltastudio.co.uk)  
 
 ---
 
